@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tukysa/static/css/main.355993fb.css",
-    "main.js": "/tukysa/static/js/main.96875b39.js",
+    "main.css": "/tukysa/static/css/main.04e8361f.css",
+    "main.js": "/tukysa/static/js/main.0079ee76.js",
     "static/js/787.15607478.chunk.js": "/tukysa/static/js/787.15607478.chunk.js",
     "static/media/incio-col2-cta2.png": "/tukysa/static/media/incio-col2-cta2.0fbbca134a28a4fb5511.png",
     "static/media/modal4-img1.png": "/tukysa/static/media/modal4-img1.8edf5726ca7740425969.png",
@@ -43,12 +43,12 @@
     "static/media/reacciones-pop4.png": "/tukysa/static/media/reacciones-pop4.d641415a957565373825.png",
     "static/media/reacciones-pop1.png": "/tukysa/static/media/reacciones-pop1.b7eba0d66070d03a9a80.png",
     "index.html": "/tukysa/index.html",
-    "main.355993fb.css.map": "/tukysa/static/css/main.355993fb.css.map",
-    "main.96875b39.js.map": "/tukysa/static/js/main.96875b39.js.map",
+    "main.04e8361f.css.map": "/tukysa/static/css/main.04e8361f.css.map",
+    "main.0079ee76.js.map": "/tukysa/static/js/main.0079ee76.js.map",
     "787.15607478.chunk.js.map": "/tukysa/static/js/787.15607478.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.355993fb.css",
-    "static/js/main.96875b39.js"
+    "static/css/main.04e8361f.css",
+    "static/js/main.0079ee76.js"
   ]
 }
